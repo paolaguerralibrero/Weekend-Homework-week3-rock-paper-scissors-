@@ -1,0 +1,10 @@
+body > h1 {
+    font-family: 'Courier New', Courier, monospace, Arial, sans-serif;
+    padding: 30px;
+    background-color: aqua;
+    margin: auto;
+}
+
+html {
+    background-color: rgb(190, 250, 190);
+}
